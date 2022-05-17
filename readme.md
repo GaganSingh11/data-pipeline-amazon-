@@ -1,1 +1,1 @@
-# Amazon.de Data Pipeline using Python, NoSQL(cassandra) and FastAPI
+# Amazon.de data pipeline using Python, NoSQL(cassandra) and FastAPI
